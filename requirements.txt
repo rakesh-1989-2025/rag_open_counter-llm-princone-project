@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-openai
+openai<2.0.0,>=1.86.0
+langchain-huggingface
+langchain-pinecone
+sentence-transformers
+pinecone
+pypdf
+torchvision
