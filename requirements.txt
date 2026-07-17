@@ -12,3 +12,8 @@ sentence-transformers
 pinecone
 pypdf
 torchvision
+langchain
+langchain-community
+langchain-core
+langchain-pinecone
+pinecone
