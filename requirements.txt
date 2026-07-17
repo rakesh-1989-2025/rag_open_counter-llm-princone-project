@@ -17,3 +17,7 @@ langchain-community
 langchain-core
 langchain-pinecone
 pinecone
+streamlit
+langchain
+langchain-pinecone
+pinecone-client
